@@ -6,7 +6,7 @@ return (
     <div className={styles.container}>
         <div className={styles.item}>
         <div className={styles.callButton}>
-            <Image src="/img/call.png" alt="" width="32" height="32"/>
+            <Image src="/img/telephone.png" alt="" width="32" height="32"/>
         </div>
 
         <div className={styles.texts}>
@@ -29,7 +29,7 @@ return (
         </div>
         <div className={styles.item}>
             <div className={styles.cart}>
-            <Image src="/img/cart.png" alt="" width="30px" height="30px"/>
+            <Image src="/img/cart.png" alt="" width="38px" height="38px"/>
             <div className={styles.counter}>2</div>
             </div>
         </div>
